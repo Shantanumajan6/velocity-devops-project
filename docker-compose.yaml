@@ -8,5 +8,5 @@ services:
       - "/mnt/wars:/usr/local/tomcat/webapps"
 
 
-
+x=10
 hello all
